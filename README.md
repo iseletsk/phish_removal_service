@@ -3,7 +3,7 @@
 Phish Removal Service API is a draft proposal of how phish detection companies can work with malware removal 
 companies to automate cleanup of phishing pages.
 
-- [API specification](./SERVER_API_SPEC.md).
+- [API specification](./API_SPECIFICATION.md).
 - [Client library prototype documentation](./README-client.md).
 - [Server-side prototype documentation](./README-server.md).
 
